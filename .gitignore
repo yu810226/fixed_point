@@ -16,3 +16,7 @@
 *.VC.VC.opendb
 *.vcxproj
 *.vcxproj.filters
+
+cscope.*
+tags
+build
